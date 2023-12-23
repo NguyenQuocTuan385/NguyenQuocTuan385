@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=211BF7&random=false&width=435&lines=Nice+to+meet+you)](https://git.io/typing-svg)
+
 <h1><strong>Hi there, I'm Tuan</strong> 👋</a></h1>
 👀 I’m interested in web developer</br>
 🚀🚀🚀
@@ -22,3 +24,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=NguyenQuocTuan385&show_icons=true&theme=radical" height="165">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenQuocTuan385&layout=compact&theme=react&langs_count=6" height="165">
 </p>
+
+## <p align="center">Visitor's count :eyes:</p>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{NguyenQuocTuan385}/count.svg" height="50px" alt="NgocTien0110 :: Visitor's Count" /></p>
+
+<br>
